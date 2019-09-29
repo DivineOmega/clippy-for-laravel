@@ -3,10 +3,9 @@
 
 <img src="assets/clippy-for-laravel-demo.gif"></img>
 
-This package brings possible the most important feature of all time to the Laravel
+This package brings possibly the most important feature of all time to the Laravel
 framework. With this easy to use package, anyone can make use of the all powerful
-Clippy assistant. Now featuring cloud-based advanced machine-learning blockchain 
-synergy which will revolutionise your Laravel application.
+Clippy assistant within their Laravel applications.
 
 ## Installation
 
