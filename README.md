@@ -23,7 +23,7 @@ Just add the following to any Blade file.
 @clippy('It looks like you are writing a Laravel app. Would you like help with that?')
 ``` 
 
-It also works with variables so you can all important data down from your controllers
+It also works with variables so you pass all important data down from your controllers
 or view composers.
 
 ```blade
