@@ -22,7 +22,7 @@ class Clippy
                         clippy.load(\'Clippy\', function(agent){
                             agent.show();
                             agent.animate();
-                            agent.speak('.$this->expression.');
+                            agent.speak(\'<?php echo with('.$this->expression.') ?>\');
                             agent.animate();
                         });
                     });
