@@ -1,5 +1,5 @@
 
-# Clippy for Laravel
+# 📎 Clippy for Laravel
 
 <img src="assets/clippy-for-laravel-demo.gif"></img>
 
